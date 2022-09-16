@@ -1,0 +1,93 @@
+Which of the following decorator is used to pass the data from the parent  component to the child component?
+
+a) @Output()
+
+b) Input
+
+c) @Input()
+
+d) Output
+Correct
+1/1 Points
+4.Which of the following is a structural directive?
+
+a) ngModel
+
+b) ngStyle
+
+c) ngClass
+
+d) ngFor
+Correct
+1/1 Points
+5.Which of the following is used for two way data binding?
+
+a) ngModel
+
+b) ngStyle
+
+c) ngClass
+
+d) ngFor
+Correct
+1/1 Points
+6.Choose the correct answer about Pipes
+
+a) Pipes are used to modify the values in the web page
+
+b) Pipes are used to format the data
+
+c) Pipes are used for modifying the DOM hierarchy
+
+d) Pipes are used to add styles to the web page
+Correct
+1/1 Points
+7.Which directive changes the style and behavior of the web page?
+
+a) Structural Directive
+
+b) Attribute Directive
+Correct
+1/1 Points
+8.Identify the decorator that will be added above the service?
+
+a) @Service
+
+b) @Component
+
+c) @Injectable
+
+d) @Injector
+Incorrect
+0/1 Points
+9.Which of the following is the correct syntax to assign name to a HTML element using template reference variable?
+
+a) <input type=”text” #username>
+
+b) <input type=”text” name = “#username”>
+
+c) <input type=”text” ngModel=”#username”>
+
+d) <input type=”text” $username>
+Correct
+1/1 Points
+10.The tag that is used to render the matched component via active route is
+
+a) <output></output>
+
+b) <router-outlet></router-outlet>
+
+c) <router-link></router-link>
+
+d) <router-active></router-active>
+Incorrect
+0/1 Points
+11.Which class can be used to extract route parameters inside component/ to get the details about the currently activated route?
+
+a) Router
+
+b) ActivatedRoute
+
+c) Route
+
+d) RouterModule
